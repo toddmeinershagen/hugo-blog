@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on Todd&#39;s Thoughts</title>
+    <link>https://blog.toddmeinershagen.com/presentations/</link>
+    <description>Recent content in Presentations on Todd&#39;s Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    
+	<atom:link href="https://blog.toddmeinershagen.com/presentations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://blog.toddmeinershagen.com/presentations/specbyexampleforuiautomation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.toddmeinershagen.com/presentations/specbyexampleforuiautomation/</guid>
+      <description>function detectBrowser() { /* var fallback = true; if (navigator &amp;&amp; navigator.vendor) { if (navigator.vendor.search(&#34;Apple&#34;) != -1) { var vers = parseInt(navigator.appVersion.replace(/^.*?AppleWebKit\/(\d+).*?$/,&#39;$1&#39;),0); if (vers = 532) { fallback = false; } } } var slashIndex = window.location.href.lastIndexOf(&#34;/&#34;); var cropped = window.location.href.slice(0,slashIndex+1); if (fallback) { window.location.replace( cropped + &#34;assets/fallback/index.html&#34; ); } else { window.location.replace( cropped + &#34;assets/player/KeynoteDHTMLPlayer.html&#34; ); } */ var slashIndex = window.location.href.lastIndexOf(&#34;/&#34;); var cropped = window.location.href.slice(0,slashIndex+1); window.location.replace(cropped + &#34;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Todd&#39;s Thoughts</title>
+    <link>https://blog.toddmeinershagen.com/topics/</link>
+    <description>Recent content in Topics on Todd&#39;s Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 10 Mar 2017 18:13:30 -0600</lastBuildDate>
+    
+	<atom:link href="https://blog.toddmeinershagen.com/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Technical</title>
+      <link>https://blog.toddmeinershagen.com/topics/technical/</link>
+      <pubDate>Fri, 10 Mar 2017 18:13:30 -0600</pubDate>
+      
+      <guid>https://blog.toddmeinershagen.com/topics/technical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
