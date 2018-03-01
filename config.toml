@@ -14,7 +14,7 @@ theme = "blackburn"
   # Shown in the home page
   subtitle = "Random access to my thoughts, ideas, and experiences…"
   brand = "MENU"
-  googleAnalytics = "UA28028155"
+  googleAnalytics = "UA-28028155-1"
   disqus = "blog-toddmeinershagen-com"
   highlightjs = "androidstudio"
   highlightjs_extra_languages = ["yaml"]
