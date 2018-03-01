@@ -1,0 +1,3 @@
+{{ $favicon := cond (isset .Site.Params "favicon") .Site.Params.favicon (print .Site.BaseURL "img/favicon.ico") }}
+<link rel="icon" href="{{ $favicon }}" type="image/x-icon" />
+<link rel="shortcut icon" href="{{ $favicon }}" type="image/x-icon" />
