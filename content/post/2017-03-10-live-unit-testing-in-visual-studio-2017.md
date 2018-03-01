@@ -21,4 +21,4 @@ While there have been custom add-on options in the past ([SpecWatchr](https://ww
 
 Find out more about it [here](https://blogs.msdn.microsoft.com/visualstudio/2017/03/09/live-unit-testing-in-visual-studio-2017-enterprise/) on Microsoft's Visual Studio Blog.
 
-![Live Unit Test Screenshot]({{ site.baseurl }}/assets/e6a6a618-0589-11e7-851e-8a96c230c9ec.png)
+![Live Unit Test Screenshot](https://cloud.githubusercontent.com/assets/177508/23807073/e6a6a618-0589-11e7-851e-8a96c230c9ec.png)

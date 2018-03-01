@@ -48,3 +48,7 @@ blockquote span{
   font-weight: bold;
   margin-top:1em;
 }
+
+img {
+  max-width: 100%;
+}
