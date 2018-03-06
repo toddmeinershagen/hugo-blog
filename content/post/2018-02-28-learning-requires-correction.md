@@ -3,7 +3,7 @@ date: 2018-02-28 02:15:30-06:00
 title: "Learning Requires Correction"
 description: ""
 slug: "2017/02/28/learning-requires-correction"
-featured_image: "/images/vs2017-live-unit-testing.png"
+featured_image: ""
 tags: ["proverbs","wisdom"]
 topics: ["christian"]
 draft: true
