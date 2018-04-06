@@ -7,6 +7,7 @@ Home 972.712.2771 • Cellular 972.343.8652
 [todd@meinershagen.net](mailto:todd@meinershagen.net)
 
 <br>
+
 **SUMMARY OF QUALIFICATIONS**
 
 * Accomplished architect with 17+ years of in-depth, hands-on experience designing and developing service-oriented, n-tier applications to solve business problems.
@@ -19,6 +20,7 @@ Home 972.712.2771 • Cellular 972.343.8652
 * "Todd is extremely hard working with a passion and dedication for his job and technology. He is unique in his ability to comprehend and adopt new technologies and techniques. Todd is a pleasure to work with and an exceptional guy to have on our team."  (John Mineau, Director of Application Development, VPI Pet Insurance)
 
 <br>
+
 **OPEN SOURCE PROJECTS**
 
 * [Bumblebee](https://www.nuget.org/packages/Bumblebee.Automation/)
@@ -31,6 +33,7 @@ Home 972.712.2771 • Cellular 972.343.8652
  * Custom NLog target for sending log events to a SignalR hub.
 
 <br>
+
 **EXPERIENCE**
 
 **Senior Software Architect (2012 – Present)**<br>
