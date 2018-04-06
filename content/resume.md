@@ -10,12 +10,12 @@ Home 972.712.2771 • Cellular 972.343.8652
 
 **SUMMARY OF QUALIFICATIONS**
 
-* Accomplished architect with 17+ years of in-depth, hands-on experience designing and developing service-oriented, n-tier applications to solve business problems.
+* Accomplished architect with over 20 years of in-depth, hands-on experience designing and developing service-oriented, n-tier applications to solve business problems.
 * Diverse certifications
- * MCSD.NET
- * Profession Scrum Master I
- * MongoDB for Node.JS Developers and DBAs
- * Certificate for Java Development
+  * MCSD.NET
+  * Profession Scrum Master I
+  * MongoDB for Node.JS Developers and DBAs
+  * Certificate for Java Development
 * Team player with a consistent history of "Far Exceeds" rating for end of year reviews.
 * "Todd is extremely hard working with a passion and dedication for his job and technology. He is unique in his ability to comprehend and adopt new technologies and techniques. Todd is a pleasure to work with and an exceptional guy to have on our team."  (John Mineau, Director of Application Development, VPI Pet Insurance)
 
@@ -24,13 +24,13 @@ Home 972.712.2771 • Cellular 972.343.8652
 **OPEN SOURCE PROJECTS**
 
 * [Bumblebee](https://www.nuget.org/packages/Bumblebee.Automation/)
- * .NET layer on top of the Selenium browser automation framework allowing for standardized creation of page objects, even for dynamic web pages.
+  * .NET layer on top of the Selenium browser automation framework allowing for standardized creation of page objects, even for dynamic web pages.
 * [James.Testing](https://github.com/QualitySoftwareMatters/James.Testing)
- * A library of test utilities named after the author who wrote the book of James in the Bible. (James 1:2-3)
+  * A library of test utilities named after the author who wrote the book of James in the Bible. (James 1:2-3)
 * [NLog.Elmah](https://www.nuget.org/packages/NLog.Elmah/)
- * Custom NLog target for sending log events to Elmah.
+  * Custom NLog target for sending log events to Elmah.
 * [NLog.SignalrR](https://www.nuget.org/packages/NLog.SignalR/)
- * Custom NLog target for sending log events to a SignalR hub.
+  * Custom NLog target for sending log events to a SignalR hub.
 
 <br>
 
