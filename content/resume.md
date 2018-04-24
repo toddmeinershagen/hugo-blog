@@ -1,4 +1,4 @@
-﻿---
+---
 Title: Resume
 Draft: true
 ---
