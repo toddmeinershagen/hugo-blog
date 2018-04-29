@@ -173,12 +173,16 @@ Solution Architect and Technical Lead responsible for leading 3-5 member teams t
 	* *Certificate, Java Development, 2002*
 	* GPA: 4.0/4.0
 * **Northwestern University**, Evanston, IL
-	* *B.A., Music Education, 1995*
+	* *B.M., Music Education, 1995*
 	* GPA: 3.8/4.0
 
 
 ## REFERENCE SNAPSHOTS
 *References available upon request.  Below are recommendations from my [LinkedIn](https://www.linkedin.com/in/toddmeinershagen) profile.
+
+>Todd is a dedicated software professional and leader with a vast experience in all aspects of software engineering and technology. Todd is also a great innovator and team-player with strong interpersonal skills. He always has something new and valuable to share regarding technology or process. He would be a valuable asset to any organization.
+
+*-Bao Vu, Lead Enterprise Architect, Southern Glazer's Wine & Spirits (2018)*
 
 > Todd is a solid technologist who is comfortable in multiple roles within a software development team. He is proficient with multiple programming languages, and is comfortable acting as an Architect, Programmer or Coach. He brings a positive attitude to the team everyday, which has a great impact on the team. He can come up to speed quickly with your code base and is not afraid to ask questions to make sure everyone is on the same page before diving in to make changes. Todd's a great person to have on your team.
 
@@ -202,7 +206,7 @@ Solution Architect and Technical Lead responsible for leading 3-5 member teams t
 
 >Todd is extremely hard working with a passion and dedication for his job and technology.  He is unique in his ability to comprehend and adopt new technologies and techniques.  Todd is a pleasure to work with and an exceptional guy to have on our team.  
 
-*-John Mineau, Directory of Software Engineering, Futuredontics, Inc. (2009)*
+*-John Mineau, Director of Software Engineering, Futuredontics, Inc. (2009)*
 
 >While Todd and I didn't work together much during my time at Crossmark, he and I had numerous conversations about software development. In addition to being bright and knowledgeable about new developments in the industry, he's refreshingly open both in sharing what he's learned and in asking questions. I believe it's important to always be learning and Todd demonstrates this. He also was willing at times to take some risks in giving me feedback about my work at Crossmark which I greatly appreciated.
 
