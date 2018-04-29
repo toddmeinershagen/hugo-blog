@@ -35,4 +35,4 @@ Draft: false
 August 2012 - Present<br>
 
 * Privately Held, 5001-10000, Hospital & Health Care
-* Resume can be found [here](./Resume).
+* Resume can be found [here](../resume).

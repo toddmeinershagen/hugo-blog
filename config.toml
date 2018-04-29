@@ -57,6 +57,13 @@ theme = "blackburn"
     weight = 5
     identifier = "about"
     url = "/about/"
+	
+  [[menu.main]]
+    name = "Resume"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 5
+    identifier = "resume"
+    url = "/resume/"
 
   #[[menu.main]]
   #  name = "Contact"
