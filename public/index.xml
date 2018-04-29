@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Todd&#39;s Thoughts</title>
+    <link>https://blog.toddmeinershagen.com/</link>
+    <description>Recent content on Todd&#39;s Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 10 Mar 2017 18:13:30 -0600</lastBuildDate>
+    
+	<atom:link href="https://blog.toddmeinershagen.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Live Unit Testing in Visual Studio 2017</title>
+      <link>https://blog.toddmeinershagen.com/post/2017/03/10/live-unit-testing-in-visual-studio-2017/</link>
+      <pubDate>Fri, 10 Mar 2017 18:13:30 -0600</pubDate>
+      
+      <guid>https://blog.toddmeinershagen.com/post/2017/03/10/live-unit-testing-in-visual-studio-2017/</guid>
+      <description>I am a big proponent of unit testing my code because of the many benefits it provides:
+ Helps me to catch potential bugs early Helps me to clarify the behavior of my units (classes) from a client perspective Leaves a documentation trail for those that come behind me to understand my intentions  The only irritation/friction I have found in the past is the fact that running unit tests has required me to manually run them on a periodic basis.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.toddmeinershagen.com/post/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.toddmeinershagen.com/post/template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://blog.toddmeinershagen.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.toddmeinershagen.com/about/</guid>
+      <description>Todd Meinershagen Summary  Accomplished architect with over 20 years of in-depth, hands-on experience designing and developing service-oriented, n-tier applications to solve business problems. Certified in diverse areas.  MCSD.NET Professional Scrum Master I Certificate in Java Development Advanced Distributed Systems Design M101JS - MongoDB for Node.JS Developers M102 - MongoDB for DBAs  Teacher&amp;rsquo;s heart and enjoy collaborating with people. Dedicated to improving processes, learning new technologies/techniques, and generating ideas while striving for excellence in everything that I do.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://blog.toddmeinershagen.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.toddmeinershagen.com/resume/</guid>
+      <description>TODD MEINERSHAGEN 1850 Countryside Drive, Frisco, TX 75034
+(972) 343-8652 | todd@meinershagen.net
+SUMMARY OF QUALIFICATIONS  Accomplished architect with over 20 years of in-depth, hands-on experience designing and developing service-oriented, n-tier applications to solve business problems. Certified in diverse areas.  MCSD.NET Professional Scrum Master I Certificate in Java Development Advanced Distributed Systems Design M101JS - MongoDB for Node.JS Developers M102 - MongoDB for DBAs  Teacher&amp;rsquo;s heart and enjoy collaborating with people.</description>
+    </item>
+    
+  </channel>
+</rss>
