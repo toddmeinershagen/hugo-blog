@@ -1,6 +1,6 @@
 ---
 Title: Resume
-Draft: true
+Draft: false
 ---
 ![](https://user-images.githubusercontent.com/177508/39161745-d5fc105a-4737-11e8-9152-5ff032c05520.jpg)
 
