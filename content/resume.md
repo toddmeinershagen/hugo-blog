@@ -7,7 +7,7 @@ Draft: false
 
 # [TODD MEINERSHAGEN](https://www.linkedin.com/in/toddmeinershagen)
 
-1850 Countryside Drive, Frisco, TX 75034  
+1850 Countryside Drive, Frisco, TX 75036  
 (972) 343-8652 | <todd@meinershagen.net>
 
 
@@ -34,7 +34,12 @@ Draft: false
 
 ## EXPERIENCE
 
-**Senior Software Architect (2012 – Present)**  
+**Senior Principal Systems Architect (2018 – Present)**  
+*[Paycor], Frisco, TX*
+
+---
+
+**Senior Software Architect (2012 – 2018)**  
 *[nThrive (formerly MedAssets)], Plano, TX*
 
 * **Common Components Architect**
@@ -82,7 +87,7 @@ Draft: false
 ---
 
 **Director, Application Development (2008 – 2009)**  
-	*[Crossmark], Plano, TX*
+*[Crossmark], Plano, TX*
 
 Hands-on development manager responsible for implementing external integration with clients and services (SOA) for creating agility in the future.  
 
@@ -93,7 +98,7 @@ Hands-on development manager responsible for implementing external integration w
 ---
 
 **Enterprise Application Architect, Servicing Department (2007 – 2008)**  
-*[Bank of America (formerly Countrywide)], Plano, TX*
+*[Bank of America (formerly Countrywide)](https://www.bankofamerica.com), Plano, TX*
 
 Department-level architect responsible for modernizing the application portfolio. Activities include defining the reference architecture, leading design of new solutions, establishing policies and best practices, selecting tools and technologies, and conducting governance.
 
@@ -259,7 +264,8 @@ Solution Architect and Technical Lead responsible for leading 3-5 member teams t
 [Fluent Assertions]: https://fluentassertions.com/
 
 
-[nThrive (formerly Medassets)]: http://www.nthrive.com/
+[Paycor]: https://www.paycor.com
+[nThrive (formerly Medassets)]: https://www.nthrive.com/
 [Improving Enterprises]: https://www.improving.com/
 [Thomson Reuters]: https://www.thomsonreuters.com/en.html
 [GameStop]: https://www.gamestop.com/
